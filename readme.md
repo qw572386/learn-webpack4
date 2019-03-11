@@ -10,3 +10,9 @@ npm init -y
 npm install webpack webpack-cli
 
 ```
+## webpack 可以0配置
+- 打包工具 -> 输出后的结果（js模块）
+- 打包（支持js模块化）
+
+## 手动配置webpack
+- 默认配置文件的名字webpack.config.js
